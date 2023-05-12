@@ -9,7 +9,7 @@ Welcome !
 .. toctree::
    :maxdepth: 2
    
-   贝叶斯理论
+   bayes/贝叶斯理论
    概率图/概率图模型
 
    

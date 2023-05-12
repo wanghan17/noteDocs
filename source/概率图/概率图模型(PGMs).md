@@ -2,7 +2,7 @@
 =====
    
 
-![概率图分类](img/2023-05-12-13-08-58.png)
+![概率图分类](../img/2023-05-12-13-08-58.png)
 
 概率图模型大致可以分为两种，directed graphical model(又称贝叶斯网络）和undirected graphical model（又称马尔可夫随机场）。
 
