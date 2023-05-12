@@ -8,7 +8,8 @@ Welcome !
 
 .. toctree::
    :maxdepth: 2
-
+   
+   贝叶斯理论
    概率图模型(PGMs) - 贝叶斯网络(Bayes Nets)
    
 Indices and tables
