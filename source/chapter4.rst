@@ -2,7 +2,9 @@ chapter4
 =====
  
    
-
+.. toctree::
+   :maxdepth: 2
+   
 很高兴看到有人提这个问题。概率图模型
 (PGM）是我的研究方向（发表的9篇论文中7篇是PGM），也曾做过CMU PGM这门课的TA，对这个方向深深喜爱。
 先说说PGM的重要性。概率图模型大致可以分为两种，directed graphical model(又称贝叶斯网络）和undirected graphical model（又称马尔可夫随机场
