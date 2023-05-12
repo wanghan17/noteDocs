@@ -65,4 +65,4 @@ html_theme = 'sphinxdoc'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-extensions = ['myst_parser']
+# extensions = ['myst_parser']
