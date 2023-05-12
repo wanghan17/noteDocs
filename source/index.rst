@@ -12,6 +12,7 @@ Welcome !
    贝叶斯/贝叶斯理论
    概率图/概率图模型
    CS_notes/CS_notes
+   c++/c++
 
    
 .. Indices and tables
