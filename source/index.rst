@@ -9,10 +9,11 @@ Welcome !
 .. toctree::
    :maxdepth: 2
    
-   贝叶斯/贝叶斯理论
-   概率图/概率图模型
+   jsbsim/jsbsim
    CS_notes/CS_notes
    c++/c++
+   贝叶斯/贝叶斯理论
+   概率图/概率图模型
 
    
 .. Indices and tables
